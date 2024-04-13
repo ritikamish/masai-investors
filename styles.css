@@ -1,0 +1,38 @@
+/* // <uniquifier>: Use a unique and descriptive class name */
+
+
+  
+  .card{
+    height : 416px;
+    width : 296px;
+    background-color: white;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    
+  }
+  p{
+    text-align : center;
+    font-family: pen Sans, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";;
+  }
+
+.logo{
+    margin : auto;
+    display: block;
+    height:fit-content;
+    width:25%;
+  }
+ 
+
+  .open-sans {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+  .card{
+    display: inline-block;
+    margin : 2%;
+
+  }
